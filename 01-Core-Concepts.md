@@ -16,7 +16,4 @@ _By the end of this section, you will:_
 1. Delete the pod
 1. Create the pod in the `pratice` namespace  
 
---- 
 
-Notes: 
-* There are almost always multiple paths that get you to the same destination (You may prefer commands I don't use. Cool.)
