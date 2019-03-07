@@ -1,4 +1,8 @@
-By the end of this section, you will be able to: 
+# Core Concepts 
+
+Environment: Katacoda: [Kubernetes - Start containers using Kubectl](https://www.katacoda.com/courses/kubernetes/kubectl-run-containers)
+
+_By the end of this section, you will:_ 
 1. View and switch contexts 
 1. Setup your preferred text editor 
     * `vim` is default
@@ -11,7 +15,5 @@ By the end of this section, you will be able to:
 1. Create the pod in the `pratice` namespace  
 
 
-
 Notes: 
 * There are almost always multiple paths that get you to the same destination (You may prefer commands I don't use. Cool.)
-* Katacoda Start containers using Kubectl
